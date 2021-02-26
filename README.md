@@ -2,3 +2,7 @@
 picture folder contains a hidden meassage
 run python program to decode the picture message
 change directory to your current directory
+
+![](alphabet/athens.jpg )
+![](alphabet/alondon.jpg)
+![](alphabet/abristol.jpg)
