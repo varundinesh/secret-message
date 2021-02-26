@@ -5,4 +5,3 @@ change directory to your current directory
 
 ![](alphabet/athens.jpg )
 ![](alphabet/london.jpg)
-![](alphabet/bristol.jpg)
